@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-- 
+- Any time new features or experimental changes need to be made, I would use a separate branch. In case there are bugs or something is broken in production that requires immediate action, I would make changes in master directly.
